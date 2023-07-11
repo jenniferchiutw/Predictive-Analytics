@@ -8,4 +8,4 @@ Run results.py. The result are printed out on the IDE
 Package: NLTK, SpaCy
 
 ## Note
-The code performs data preprocess. It will print out the wordbag list. I am still working on the remaining part.
+The code performs data preprocessing. It will print out the wordbag list. I am still working on the remaining part.
