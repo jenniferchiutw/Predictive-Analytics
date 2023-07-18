@@ -3,7 +3,7 @@ Perform text mining.
 
 ## Instructions
 Run results.py. The result are printed out on the IDE.
-The output folders contain the 'topics.txt' file, which is about the topics for each folder.
+The output folder contains the 'topics.txt' file, which is about the topics for each folder.
 
 ## Requirements
 Package: NLTK, SpaCy, NumPy, Pandas, os, string, math
