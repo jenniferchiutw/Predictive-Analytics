@@ -1,11 +1,11 @@
 ## Goal
-Perform text mining
+Perform text mining.
 
 ## Instructions
-Run results.py. The result are printed out on the IDE
+Run results.py. The result are printed out on the IDE.
 
 ## Requirements
-Package: NLTK, SpaCy
+Package: NLTK, SpaCy, NumPy
 
 ## Note
-The code performs data preprocessing. It will print out the wordbag list. I am still working on the remaining part.
+The code performs data preprocessing, document-term matrix, tf-idf transformation, keywords generation, PCA, and K-means. I am still working on the remaining part.
