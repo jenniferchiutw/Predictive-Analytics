@@ -12,5 +12,5 @@ The output folder contains the 'topics.txt' file, which is about the topics for 
 Package: NLTK, SpaCy, NumPy, Pandas, os, string, math
 
 ## Note
-The code performs data preprocessing, document-term matrix,TF-IDF transformation, keywords(topics) generation, PCA, and K-means. 
+The code performs data preprocessing, document-term matrix, TF-IDF transformation, keywords(topics) generation, PCA, and K-means. 
 I am still working on the remaining part.
