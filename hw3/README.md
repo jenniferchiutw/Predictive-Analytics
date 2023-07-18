@@ -5,7 +5,8 @@ Name: Kuan-Hsuan(Jennifer) Chiu
 Perform text mining.
 
 ## Instructions
-Run results.py. The result are printed out on the IDE.
+Download all the files and run 'results.py'. You may also need to download packages mentioned in the 'Requirements' before running the code. 
+The result are printed out on the IDE.
 The output folder contains the 'topics.txt' file, which is about the topics for each folder.
 
 ## Requirements
