@@ -1,3 +1,6 @@
+## Personal Information
+Name: Kuan-Hsuan(Jennifer) Chiu
+
 ## Goal
 Perform text mining.
 
