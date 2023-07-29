@@ -1,0 +1,4 @@
+Keywords for Each Document Folder:
+C1:['safety', 'airline', '2002', 'civil aviation', 'civil', 'ground', 'air', 'aircraft', 'standards', 'china']
+C4:['disease', 'hoof mouth disease', 'mouth disease', 'hoof mouth', 'hoof', 'mouth', 'crisis', 'france', 'health', 'agriculture']
+C7:['mortgage', 'bank', 'rat', 'mortgage rat', 'rate', 'loan', 'percent', 'prodi', 'house', 'asahi bank']
