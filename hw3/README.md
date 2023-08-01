@@ -2,7 +2,7 @@
 Name: Kuan-Hsuan (Jennifer) Chiu
 
 ## Goal
-Perform text mining.
+Use Python to perform text mining.
 
 ## Instructions
 1. Download all the files and run 'results.py'.
