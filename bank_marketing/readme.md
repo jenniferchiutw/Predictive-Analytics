@@ -6,7 +6,7 @@ In this project, our aim is to apply data analytics to predict customers who are
 ## Dataset
 https://archive.ics.uci.edu/dataset/222/bank+marketing
 ## Data Dictionary
-   Input variables:
+   ### Input variables:
    ### bank client data:
    - 1 - age (numeric) <br>
    - 2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student","blue-collar","self-employed","retired","technician","services") 
@@ -27,5 +27,5 @@ https://archive.ics.uci.edu/dataset/222/bank+marketing
    - 15 - previous: number of contacts performed before this campaign and for this client (numeric)
    - 16 - poutcome: outcome of the previous marketing campaign (categorical: "unknown","other","failure","success")
 
-  Output variable (desired target):
+  ### Output variable (desired target):
    - 17 - y - has the client subscribed a term deposit? (binary: "yes","no")
