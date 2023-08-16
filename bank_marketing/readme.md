@@ -7,7 +7,7 @@ In this project, our aim is to apply data analytics to predict customers who are
 https://archive.ics.uci.edu/dataset/222/bank+marketing
 ## Data Dictionary
    Input variables:
-   ### bank client data:
+   #### bank client data:
    1 - age (numeric)
    2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
                                        "blue-collar","self-employed","retired","technician","services") 
