@@ -1,4 +1,5 @@
 ## Project: Bank Marketing Prediction
+Name: Kuan-Hsuan(Jennifer) Chiu
 ## Objective
 In the financial industry, bank marketing is crucial. It helps banks build and maintain relationships with their existing customers by promoting and selling banking products and services. However, banks often face budget constraints when it comes to disseminating information to their customers.
 
